@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Built With
 
-- Semantic **HTML5 markup** (`<article>`, `<address>`, `<ul>`, `<li>`)
+- Semantic **HTML5 markup** (`<article>`, `<ul>`, `<li>`)
 - **CSS custom properties** for theme colors and typography
 - **Grid** for centering
 - **Flexbox** for layout
